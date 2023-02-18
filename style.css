@@ -1,0 +1,23 @@
+.square-div-h{
+    /* background-color: blueviolet; */
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+    /* margin: 2px; */
+}
+.square-div-v{
+    background-color: blueviolet;
+    border: black solid 0.5px;
+    height: 30px;
+    width: 30px;
+    /* margin: 2px; */
+}
+
+/* .square-div-v:hover {
+    background-color: brown;
+} */
+
+#container { 
+    display: flex;
+    justify-content: center;
+}
